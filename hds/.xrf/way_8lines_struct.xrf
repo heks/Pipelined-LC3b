@@ -1,0 +1,278 @@
+DESIGN @way_8@lines
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 51,0 8 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 152,0 17 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 143,0 18 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 415,0 19 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 113,0 20 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 136,0 21 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 108,0 22 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 180,0 23 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 123,0 24 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 385,0 25 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 118,0 26 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 334,0 27 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 447,0 28 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 1,0 31 0 
+DESIGN @way_8@lines
+VIEW symbol.sb
+GRAPHIC 1,0 32 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+NO_GRAPHIC 35
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 41,0 44 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+NO_GRAPHIC 50
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 0,0 52 2 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 617,0 57 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 543,0 58 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 569,0 59 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+NO_GRAPHIC 60
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1970,0 62 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+NO_GRAPHIC 64
+LIBRARY ece411
+DESIGN @addr@rejoin
+VIEW untitled
+GRAPHIC 3189,0 66 0 
+DESIGN @addr@rejoin
+VIEW untitled
+GRAPHIC 113,0 68 0 
+DESIGN @addr@rejoin
+VIEW untitled
+GRAPHIC 108,0 69 0 
+DESIGN @addr@rejoin
+VIEW untitled
+GRAPHIC 128,0 70 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1070,0 73 0 
+DESIGN @and2
+VIEW untitled
+GRAPHIC 51,0 75 0 
+DESIGN @and2
+VIEW untitled
+GRAPHIC 56,0 76 0 
+DESIGN @and2
+VIEW untitled
+GRAPHIC 61,0 77 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 583,0 80 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 123,0 82 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 535,0 83 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 597,0 84 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 204,0 87 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 318,0 89 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 304,0 90 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 137,0 91 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 253,0 92 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1970,0 93 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 473,0 96 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 695,0 98 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 2836,0 99 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 503,0 100 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 495,0 101 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 2512,0 102 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 447,0 105 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 465,0 107 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 457,0 108 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 535,0 109 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1222,0 110 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1490,0 111 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 483,0 114 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 687,0 116 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 521,0 117 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 561,0 118 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1151,0 119 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1928,0 122 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1970,0 124 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1851,0 125 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1950,0 126 0 
+LIBRARY ece411
+DESIGN @way_8@lines
+VIEW struct.bd
+NO_GRAPHIC 129
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 3189,0 132 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1070,0 133 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 583,0 134 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 204,0 135 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 473,0 136 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 447,0 137 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 483,0 138 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1928,0 139 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+NO_GRAPHIC 142
+DESIGN @way_8@lines
+VIEW struct.bd
+NO_GRAPHIC 144
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 3189,0 146 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 2967,0 148 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 2961,0 149 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 3070,0 150 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1070,0 152 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 597,0 154 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 561,0 155 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 151,0 156 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 583,0 158 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 204,0 164 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 473,0 172 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 447,0 180 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 483,0 188 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1928,0 195 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+GRAPHIC 1970,0 203 0 
+DESIGN @way_8@lines
+VIEW struct.bd
+NO_GRAPHIC 205

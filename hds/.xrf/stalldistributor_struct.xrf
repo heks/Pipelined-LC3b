@@ -1,0 +1,318 @@
+DESIGN @stall@distributor
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 280,0 17 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 184,0 18 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 108,0 19 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 196,0 20 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 175,0 21 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 189,0 22 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 203,0 23 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 334,0 24 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 163,0 25 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 168,0 26 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 1,0 29 0 
+DESIGN @stall@distributor
+VIEW symbol.sb
+GRAPHIC 1,0 30 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+NO_GRAPHIC 33
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 105,0 42 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+NO_GRAPHIC 48
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 0,0 51 2 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1175,0 56 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 555,0 57 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 21,0 58 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1212,0 59 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 959,0 60 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 957,0 61 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 373,0 62 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 357,0 63 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+NO_GRAPHIC 64
+DESIGN @stall@distributor
+VIEW struct.bd
+NO_GRAPHIC 65
+LIBRARY ece411
+DESIGN @gen@one
+VIEW untitled
+GRAPHIC 363,0 67 0 
+DESIGN @gen@one
+VIEW untitled
+GRAPHIC 108,0 69 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 708,0 72 0 
+DESIGN @hide@reg@and@gate
+VIEW untitled
+GRAPHIC 108,0 74 0 
+DESIGN @hide@reg@and@gate
+VIEW untitled
+GRAPHIC 113,0 75 0 
+LIBRARY mp3lib
+DESIGN @a@n@d2
+VIEW untitled
+GRAPHIC 1091,0 78 0 
+DESIGN @a@n@d2
+VIEW untitled
+GRAPHIC 52,0 80 0 
+DESIGN @a@n@d2
+VIEW untitled
+GRAPHIC 57,0 81 0 
+DESIGN @a@n@d2
+VIEW untitled
+GRAPHIC 62,0 82 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 464,0 85 0 
+DESIGN @n@a@n@d2
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 52,0 87 0 
+DESIGN @n@a@n@d2
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 57,0 88 0 
+DESIGN @n@a@n@d2
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 62,0 89 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1050,0 92 0 
+DESIGN @r@e@g1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 52,0 94 0 
+DESIGN @r@e@g1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 57,0 95 0 
+DESIGN @r@e@g1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 62,0 96 0 
+DESIGN @r@e@g1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 67,0 97 0 
+DESIGN @r@e@g1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 72,0 98 0 
+LIBRARY ece411
+DESIGN @stall@distributor
+VIEW struct.bd
+NO_GRAPHIC 101
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1091,0 104 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 363,0 105 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 708,0 106 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 464,0 107 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1050,0 108 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+NO_GRAPHIC 111
+DESIGN @stall@distributor
+VIEW struct.bd
+NO_GRAPHIC 113
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 363,0 115 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 375,0 117 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 708,0 119 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 351,0 121 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 345,0 122 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1091,0 124 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1129,0 126 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1147,0 127 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1152,0 128 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 759,0 130 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 772,0 132 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 780,0 133 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 601,0 134 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 397,0 136 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 412,0 138 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 418,0 139 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 551,0 140 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1191,0 142 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1206,0 144 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 569,0 145 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1214,0 146 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 185,0 148 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 29,0 150 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 15,0 151 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 43,0 152 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 223,0 154 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 248,0 156 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 254,0 157 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 57,0 158 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 464,0 160 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 489,0 162 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 477,0 163 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 15,0 164 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 886,0 166 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 551,0 168 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 561,0 169 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 569,0 170 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1050,0 172 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1122,0 174 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1002,0 175 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1139,0 176 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1143,0 177 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1147,0 178 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 310,0 180 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 581,0 182 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 1214,0 183 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 375,0 184 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 345,0 185 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+GRAPHIC 780,0 186 0 
+DESIGN @stall@distributor
+VIEW struct.bd
+NO_GRAPHIC 189

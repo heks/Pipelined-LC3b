@@ -1,0 +1,351 @@
+DESIGN @arbiter
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 138,0 17 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 143,0 18 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 128,0 19 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 133,0 20 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 118,0 21 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 123,0 22 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 108,0 23 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 113,0 24 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 217,0 25 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 212,0 26 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 260,0 27 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 255,0 28 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 179,0 29 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 174,0 30 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 169,0 31 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 164,0 32 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 202,0 33 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 207,0 34 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 192,0 35 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 197,0 36 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 1,0 39 0 
+DESIGN @arbiter
+VIEW symbol.sb
+GRAPHIC 1,0 40 0 
+DESIGN @arbiter
+VIEW struct.bd
+NO_GRAPHIC 43
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 233,0 52 0 
+DESIGN @arbiter
+VIEW struct.bd
+NO_GRAPHIC 58
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 0,0 61 2 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 339,0 66 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1042,0 67 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 993,0 68 0 
+DESIGN @arbiter
+VIEW struct.bd
+NO_GRAPHIC 69
+DESIGN @arbiter
+VIEW struct.bd
+NO_GRAPHIC 70
+LIBRARY ece411
+DESIGN @arbiter_@controller
+VIEW fsm
+GRAPHIC 1082,0 72 0 
+DESIGN @arbiter_@controller
+VIEW symbol.sb
+GRAPHIC 113,0 74 0 
+DESIGN @arbiter_@controller
+VIEW symbol.sb
+GRAPHIC 108,0 75 0 
+DESIGN @arbiter_@controller
+VIEW symbol.sb
+GRAPHIC 143,0 76 0 
+DESIGN @arbiter_@controller
+VIEW symbol.sb
+GRAPHIC 133,0 77 0 
+DESIGN @arbiter_@controller
+VIEW symbol.sb
+GRAPHIC 138,0 78 0 
+DESIGN @arbiter_@controller
+VIEW symbol.sb
+GRAPHIC 118,0 79 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 397,0 82 0 
+DESIGN @demux2_1
+VIEW symbol.sb
+GRAPHIC 108,0 84 0 
+DESIGN @demux2_1
+VIEW symbol.sb
+GRAPHIC 153,0 85 0 
+DESIGN @demux2_1
+VIEW symbol.sb
+GRAPHIC 164,0 86 0 
+DESIGN @demux2_1
+VIEW symbol.sb
+GRAPHIC 169,0 87 0 
+LIBRARY mp3lib
+DESIGN @m@u@x2_1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 1459,0 90 0 
+DESIGN @m@u@x2_1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 52,0 92 0 
+DESIGN @m@u@x2_1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 57,0 93 0 
+DESIGN @m@u@x2_1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 62,0 94 0 
+DESIGN @m@u@x2_1
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 67,0 95 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 840,0 98 0 
+DESIGN @m@u@x2_128
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 57,0 100 0 
+DESIGN @m@u@x2_128
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 62,0 101 0 
+DESIGN @m@u@x2_128
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 72,0 102 0 
+DESIGN @m@u@x2_128
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 67,0 103 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 317,0 106 0 
+DESIGN @m@u@x2_16
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 57,0 108 0 
+DESIGN @m@u@x2_16
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 62,0 109 0 
+DESIGN @m@u@x2_16
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 72,0 110 0 
+DESIGN @m@u@x2_16
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 67,0 111 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1559,0 114 0 
+DESIGN @n@a@n@d2
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 52,0 116 0 
+DESIGN @n@a@n@d2
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 57,0 117 0 
+DESIGN @n@a@n@d2
+VIEW @u@n@t@i@t@l@e@d
+GRAPHIC 62,0 118 0 
+LIBRARY ece411
+DESIGN @arbiter
+VIEW struct.bd
+NO_GRAPHIC 121
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1082,0 124 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 397,0 125 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1459,0 126 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 840,0 127 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 317,0 128 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1559,0 129 0 
+DESIGN @arbiter
+VIEW struct.bd
+NO_GRAPHIC 132
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 931,0 135 0 
+DESIGN @arbiter
+VIEW struct.bd
+NO_GRAPHIC 138
+DESIGN @arbiter
+VIEW struct.bd
+NO_GRAPHIC 139
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1082,0 141 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1028,0 143 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 985,0 144 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1120,0 145 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1094,0 146 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1102,0 147 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1112,0 148 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 397,0 150 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 577,0 152 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 373,0 153 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 155,0 154 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 71,0 155 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1459,0 157 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 141,0 159 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 57,0 160 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 736,0 161 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 521,0 162 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1425,0 164 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 169,0 166 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 85,0 167 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 805,0 168 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 535,0 169 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 840,0 171 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 127,0 173 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 43,0 174 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 856,0 175 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 563,0 176 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 317,0 178 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 99,0 180 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 15,0 181 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 333,0 182 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 549,0 183 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1559,0 185 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1035,0 187 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1021,0 188 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1028,0 189 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 1533,0 191 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 969,0 193 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 977,0 194 0 
+DESIGN @arbiter
+VIEW struct.bd
+GRAPHIC 985,0 195 0 
+DESIGN @arbiter
+VIEW struct.bd
+NO_GRAPHIC 198

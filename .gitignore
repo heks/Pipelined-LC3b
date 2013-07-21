@@ -1,0 +1,13 @@
+compile/
+mp3lib/compile/
+*.bak
+*.lck
+*_struct.vhd
+*_fsm.vhd
+*~
+*.orig
+*.replaced
+.cache.dat
+*.aprj
+*.csv
+*.do

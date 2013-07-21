@@ -1,0 +1,12 @@
+[ModelSim]
+ece411 = $HDS_PROJECT_DIR/compile
+[hdl]
+ece411 = $HDS_PROJECT_DIR/hdl
+[hds]
+ece411 = $HDS_PROJECT_DIR/hds
+[hds_settings]
+default_library = ece411
+design_root = ece411.mp2_CPU(struct)mp2_@c@p@u/struct.bd
+version = 2
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
